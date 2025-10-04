@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project is a comprehensive notebook for studying and implementing concepts from Discrete-Time Signal Processing (DTSP). It contains Python code (Jupyter Notebook) for:
+This project is a notebook for studying and implementing concepts from Discrete-Time Signal Processing (DTSP). It contains Python code (Jupyter Notebook) for:
 
 - **Z-Transform calculation and visualization**
 - **System causality (causal, non-causal) analysis**
@@ -15,7 +15,6 @@ This project is a comprehensive notebook for studying and implementing concepts 
 - **Signal analysis (even/odd, energy/power, periodicity, etc.)**
 - **Type of signal (periodic, aperiodic, energy, power)**
 
-The notebook is intended as a course project and reference for students learning DTSP.
 
 ---
 
