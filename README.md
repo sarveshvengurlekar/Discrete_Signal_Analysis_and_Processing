@@ -72,7 +72,7 @@ pip install numpy matplotlib
 
 ```
 .
-├── Copy_of_DTSP_CP (1).ipynb   # Main notebook with all code and explanations
+├── Discrete_signal_processing_Code.ipynb   # Main notebook with all code and explanations
 └── README.md                   # Project documentation (this file)
 ```
 
@@ -117,13 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Acknowledgements
-
-- Developed as part of the DTSP course project.
-- Uses open-source Python libraries for signal analysis and visualization.
-
----
-
-## Author
-
-- [sarveshvengurlekar](https://github.com/sarveshvengurlekar)
